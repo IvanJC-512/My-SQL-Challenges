@@ -8,8 +8,9 @@ The goal is to strengthen my database skills for international data engineering 
 - Tooling: Git, Visual Studio Code
 
 ## 📈 Progress
-- [X] Basic Select (21/21)
-- [ ] Advanced Select (5/10)
+- [X] Basic Select (20/20)
+- [X] Advanced Select (5/5)
+- [ ] Aggretarion (3/17)
 - [ ] Joins (0/15)
 
 ## 🗂 Structure
