@@ -10,7 +10,7 @@ The goal is to strengthen my database skills for international data engineering 
 ## 📈 Progress
 - [X] Basic Select (20/20)
 - [X] Advanced Select (5/5)
-- [ ] Aggretarion (10/17)
+- [ ] Aggretarion (11/17)
 - [ ] Joins (0/15)
 
 ## 🗂 Structure
