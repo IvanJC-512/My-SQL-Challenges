@@ -10,9 +10,10 @@ The goal is to strengthen my database skills for international data engineering 
 ## 📈 Progress
 - [X] Basic Select (20/20)
 - [X] Advanced Select (5/5)
-- [ ] Aggretarion (13/17)
+- [ ] Aggregation (13/17)
 - [ ] Joins (0/15)
 
 ## 🗂 Structure
 - `/Basic-Select`: Fundamental queries, filtering, and sorting.
 - `/Advanced-Select`: CASE statements and complex logic.
+- `/Aggregation`: CASE compare and aggregations.
