@@ -17,3 +17,4 @@ The goal is to strengthen my database skills for international data engineering 
 - `/Basic-Select`: Fundamental queries, filtering, and sorting.
 - `/Advanced-Select`: CASE statements and complex logic.
 - `/Aggregation`: CASE compare and aggregations.
+- `/Join`: Join cases, basic and advanced.
