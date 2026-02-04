@@ -11,7 +11,7 @@ The goal is to strengthen my database skills for international data engineering 
 - [X] Basic Select (20/20)
 - [X] Advanced Select (5/5)
 - [X] Aggregation (17/17)
-- [ ] Joins (4/15)
+- [ ] Joins (5/15)
 
 ## 🗂 Structure
 - `/Basic-Select`: Fundamental queries, filtering, and sorting.
